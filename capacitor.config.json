@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "2-pam",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

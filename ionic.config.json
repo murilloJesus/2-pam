@@ -1,0 +1,8 @@
+{
+  "name": "2-pam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5d64aa89"
+}
